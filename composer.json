@@ -1,0 +1,18 @@
+{
+    "name": "mario/ejem-php",
+    "autoload": {
+        "psr-4": {
+            "Mario\\EjemPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mbaltazar23",
+            "email": "mbaltazarlanchipa@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^1.0",
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
